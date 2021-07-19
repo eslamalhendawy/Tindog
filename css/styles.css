@@ -166,6 +166,9 @@ h1, h2, h3, h4, h5, h6{
     position: static;
     transform: rotate(0);
   }
+  .nav-link{
+    font-size: 1.5rem;
+  }
 }
 
 /* Call to Action */
